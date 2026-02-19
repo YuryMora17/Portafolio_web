@@ -1,0 +1,12 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}git add .
+git commit -m "fix railway deploy"
+git push
